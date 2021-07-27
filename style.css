@@ -1,0 +1,165 @@
+body
+{
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik', sans-serif;
+    color: rgb(110, 105, 105)
+}
+
+.first-div{
+    font-size: 35px;
+    padding-left: 5%;
+}
+.first-portion img{
+    width: 100%;
+    size: 100%;
+    padding-left: 23%;
+    padding-top: 15%;
+}
+
+.word-colored{
+    color: rgb(238, 127, 37);
+}
+.first-dialogue
+{
+    padding-top: 50%;
+    padding-left: 5%;
+    font-weight: 900;
+    
+}
+h6
+{   padding-left: 5%;
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+.button-1{
+     color: white;
+     font-size: 20px;
+     padding: 15px;
+     border-radius: 25px;
+     padding-left: 9%;
+     padding-right: 9%;
+     padding-top: 5%;
+     padding-bottom: 5%;
+     background-image: linear-gradient(rgb(233, 130, 34),salmon);
+     text-decoration: none;
+     margin-left: 15px;
+}
+section{
+    display: flex;
+    margin-left: 20px;
+}
+.second-portion{
+    background-image: url(images/shapes/7.png);
+    margin:0% ;
+}
+.second-portion img{
+    width: 5in;
+    size: 150px;
+    padding-left: 23%;
+    padding-top: 15%;
+}
+.fourth-div{
+    padding-top: 16%;
+    padding-left: 17%;
+    font-weight: 900;
+}
+#about-me{
+    font-size: 50px;
+}
+#about-me-details{
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.button-2{
+    margin-top: 40%;
+    color: white;
+    font-size: 20px;
+    font-weight: 200;
+    padding: 15px;
+    border-radius: 30px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: linear-gradient(rgb(94, 94, 196),rgb(231, 133, 231));
+    text-decoration: none;
+}
+.fifth-div{
+    text-align: center;
+    padding-left: 18%;
+    text-decoration: slategrey;
+    font-size: 20px;
+    padding-bottom: 4%;
+}
+.my-reci
+{
+    padding-top: 5%;
+    font-size: 40px;
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+}
+h3{
+    color:black;
+}
+.breakfast{
+    margin-left: 5%;
+    box-shadow: 0 0 20px 10px #c7c8ce;
+    padding-left: 3%;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 34px;
+}
+.lunch{
+    margin-left: 5%;
+    box-shadow: 0 0 20px 10px #c7c8ce;
+    padding-left: 3%; 
+    font-family: 'Open Sans', sans-serif;  
+    border-radius: 34px;
+}
+.dinner{  
+    margin-left: 5%;
+    box-shadow: 0 0 20px 10px #c7c8ce;
+    padding-left: 3%;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 34px;
+}
+.breakfast img 
+{   width: 90%;
+    padding-top: 7%;
+    size: 20%;
+    border-radius: 34px;   
+}
+.lunch img
+{   width: 90%;
+    padding-top: 7%;
+    size: 20%;
+    border-radius: 34px; 
+}
+.dinner img
+{   width: 73%;
+    padding-top: 7%;
+    size: 20%;
+    border-radius: 34px; 
+}
+footer p{
+    margin: 0%;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+    background-color:rgb(28, 28, 39);
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
+#foodcolored
+{ color:rgb(235, 137, 26)
+}
+#footertextcolor{
+    color:rgb(137, 150, 167);
+    font-family: sans-serif;
+    font-size: 20px;
+}
